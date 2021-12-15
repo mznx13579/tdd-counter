@@ -1,0 +1,19 @@
+{
+  "name": "tdd-counter",
+  "version": "1.0.0",
+  "description": "TDD 방법으로 앱을 만들어보자.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mznx13579/tdd-counter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mznx13579/tdd-counter/issues"
+  },
+  "homepage": "https://github.com/mznx13579/tdd-counter#readme"
+}
